@@ -18,4 +18,5 @@ Format: `- <Name> [<Project Topic>](https://github.com/<GitHubId>/CMSC6950_Proje
 - Mohammed Asfour [PyAutoLens](https://github.com/m3asfour/CMSC6950_Project)
 - Qingyu Zhang [sbpy](https://github.com/Oscarious/CMSC6950_Project)
 - Arnab Barua [tidynamics](https://github.com/arbarua/CMSC6950_Project)
+- Khalid Ibne Hasan [eddy](https://github.com/khalid-hasan/CMSC6950_Project)
 - Kabir Zubaer [argopy](https://github.com/zubaer005/CMSC6950_Project)`
