@@ -10,7 +10,7 @@ Format: `- <Name> [<Project Topic>](https://github.com/<GitHubId>/CMSC6950_Proje
 - Brad McNiven [fruitbat](https://github.com/bm2570/CMSC6950_Project)
 - Ruixin Song [Capytaine](https://github.com/tsuzzy/CMSC6950_Project)
 - Omid Tarkhaneh [pymagicc](https://github.com/OmidTarkhaneh/CMSC6950_Project)
-- Vivek patel [pymagicc](https://github.com/vivek1697/CMSC6950_Project)
+- Vivek patel [argopy](https://github.com/vivek1697/CMSC6950_Project)
 - Michael King [argopy](https://github.com/mtk282/CMSC6950_Project)
 - Immanuel Okpara [argopy](https://github.com/kentokpara/CMSC6950_Project)
 - Karina Barcelos [tidynamics](https://github.com/kdabarcelos/CMSC6950_Project)
