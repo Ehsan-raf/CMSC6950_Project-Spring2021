@@ -19,4 +19,4 @@ Format: `- <Name> [<Project Topic>](https://github.com/<GitHubId>/CMSC6950_Proje
 - Arnab Barua [tidynamics](https://github.com/arbarua/CMSC6950_Project)
 - Khalid Ibne Hasan [eddy](https://github.com/khalid-hasan/CMSC6950_Project)
 - Kabir Zubaer [argopy](https://github.com/zubaer005/CMSC6950_Project)`
-- Ehsan Rafiei Azad [argopy](https://github.com/Ehsan-raf/CMSC6950_Project)
+- Ehsan Rafiei Azad [Pymagicc](https://github.com/Ehsan-raf/CMSC6950_Project)
